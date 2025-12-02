@@ -65,7 +65,9 @@ p == list->head
 p->prev == NULL
 ```
       * 포인터가 꼬리 노드를 가리키는지 판단하는 식
-        `p->next == NULL`  
+```c
+p->next == NULL
+```  
 
 ## 11월 6일 강의
 
