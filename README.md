@@ -80,6 +80,7 @@
          `p == list->head`
        * 포인터가 꼬리 노드를 가리키는지 판단하는 식
          `p->next == list->head`
+         
   * **원형 이중 연결 리스트(circular doubly linked list)**
     * 앞에 두 개념을 합함
    
