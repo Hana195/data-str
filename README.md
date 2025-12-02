@@ -60,8 +60,10 @@
    
     * **판단하는 방법**
       * 포인터가 머리 노드를 가리키는지 판단하는 식
-        `p == list->head`
-        `p->prev == NULL`
+```c
+p == list->head
+p->prev == NULL
+```
       * 포인터가 꼬리 노드를 가리키는지 판단하는 식
         `p->next == NULL`  
 
