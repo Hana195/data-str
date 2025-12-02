@@ -58,7 +58,9 @@
     * 목적 배열 만들기
     * 배열 복사하기
    
-![이미지](./image/img01.jpg "이미지 삽입")
+![Image](https://github.com/user-attachments/assets/9b8d5b1b-87fc-4583-b4b5-f3ce151b24f7)
+
+![Image](https://github.com/user-attachments/assets/17f02664-444e-4728-8f7d-9cb9c791025a)
 
 ## 10월 31일 강의
 
